@@ -2,8 +2,8 @@
 
 This repository contains the code for a landing page clone of Zerodha, a popular Indian stock brokerage platform.
 
-## Preview
+### Screenshot
 
-You can view a live preview of the project [Preview.png](insert-live-preview-link).
+![Landing Page Screenshot](Preview.png)
 
-![Preview.png]
+
