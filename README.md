@@ -5,3 +5,5 @@ This repository contains the code for a landing page clone of Zerodha, a popular
 ## Preview
 
 You can view a live preview of the project [Preview.png](insert-live-preview-link).
+
+![Preview.png]
